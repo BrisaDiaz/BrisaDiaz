@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brisa</h1>
 <h3 align="center">A enthusiastic web developer from Argentina</h3>
-<img src="https://res.cloudinary.com/myproyects/image/upload/v1644975807/proyects/Captura_de_pantalla_2022-02-09_232950_o4vbda.png" alt="banner" /> 
+<img src="https://res.cloudinary.com/myproyects/image/upload/v1651175957/proyects/techs_ivqnmh.png" alt="banner" /> 
 
 - 💼 All of my projects are available at my portfolio **[https://brisa-diaz.netlify.app](https://brisa-diaz.netlify.app)**
 
