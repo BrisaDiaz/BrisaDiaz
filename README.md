@@ -7,6 +7,8 @@
 - 👉 You can find me on linkedin **[www.linkedin.com/in/brisa-díaz](www.linkedin.com/in/brisa-díaz)**
 
 - 📫 How to reach me **brisaabigaildiaz2000@gmail.com**
+
+- 🌱 Currently learning: React Native - Redux 
   <br> </br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brisadiaz&show_icons=true&locale=en&layout=compact" alt="brisadiaz" /></p>
 
