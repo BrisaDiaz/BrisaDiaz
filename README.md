@@ -2,7 +2,7 @@
 <h3 align="center">A enthusiastic web developer from Argentina</h3>
 <img src="https://res.cloudinary.com/myproyects/image/upload/v1651175957/proyects/techs_ivqnmh.png" alt="banner" /> 
 
-- 💼 All of my projects are available at my portfolio **[https://brisa-diaz.netlify.app](https://brisa-diaz.netlify.app)**
+- 💼 You can find all my projects in my portfolio **[https://brisa-diaz.netlify.app](https://brisa-diaz.netlify.app)**
 
 - 👉 You can find me on linkedin **[www.linkedin.com/in/brisa-díaz](www.linkedin.com/in/brisa-díaz)**
 
