@@ -4,7 +4,7 @@
 
 I'm a passionate Information Systems Engineering student, driven by a curiosity to explore cutting-edge technologies and create impactful software solutions.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://brisa-diaz.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://brisa-diaz-portfolio.vercel.app/)
 * ✉️  You can contact me at [brisaabigaildiaz2000@gmail.com](mailto:brisaabigaildiaz2000@gmail.com)
 * 🧠  I'm learning Python - Algorithms and Data Structures - Software Architecture
 ### Socials
@@ -17,6 +17,3 @@ I'm a passionate Information Systems Engineering student, driven by a curiosity 
 
 <a href="https://github.com/BrisaDiaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaDiaz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/BrisaDiaz/Mern-stack-delivery-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BrisaDiaz&repo= Mern-stack-delivery-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/BrisaDiaz/fitness-wiki-nextjs-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BrisaDiaz&repo= fitness-wiki-nextjs-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
